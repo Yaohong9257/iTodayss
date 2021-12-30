@@ -1,4 +1,4 @@
-# iTodayss 爱今天（Google play上传应用名为：时间朋友）
+# iTodayss 爱今天（在Google play的应用名为：时间朋友）
 
 ## V5.9.7 版本更新
 1.修复部分手机上传记录时，提示"无法连接服务器"Bug.
