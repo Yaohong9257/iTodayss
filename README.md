@@ -1,5 +1,13 @@
 # iTodayss 爱今天（在Google play的应用名为：时间朋友）
 
+## v5.9.9 更新内容：
+* 1.修复已登录账号标签记录上传失败bug【重要】；
+* 2.导出excel检查文件写入权限；
+
+* 爱今天apk: iTodayss_release_v5.9.9-220924.apk
+* 时间朋友apk：timefriend_release_v5.9.9-220925.apk
+
+
 ## V5.9.8 版本更新
 1.修复部分机型导入备份数据失败；
 
